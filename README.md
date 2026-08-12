@@ -51,6 +51,12 @@ API documentation:
 http://127.0.0.1:8000/docs
 ```
 
+example images
+
+<img width="1918" height="619" alt="image" src="https://github.com/user-attachments/assets/21f6ea16-53bf-443f-bda2-1904fe4b7863" />
+<img width="1919" height="692" alt="image" src="https://github.com/user-attachments/assets/3bfb9abd-a293-48ca-b78f-e4c7bba55938" />
+
+
 ## Purpose
 
 This project was built to learn and practice **FastAPI, authentication, databases, SQLAlchemy, and testing**.
